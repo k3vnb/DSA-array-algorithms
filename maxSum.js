@@ -24,3 +24,5 @@ function runMaxSum(arr){
 }
 
 console.log(runMaxSum([4, 6, -3, 5, -2, 1]))
+
+// 
