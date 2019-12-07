@@ -13,4 +13,3 @@ function removeChars(str){
 
 removeChars("Battle of the Vowels: Hawaii vs. Apalachia")
 
-//this 
